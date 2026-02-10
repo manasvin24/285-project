@@ -16,3 +16,12 @@ for each data:
 final output csv columns:
 
 week number | weekly_max_T | weekly_min_T | weekly_avg_T |
+
+Week 2:
+Define the Input schema
+Find ways to format the inputs for the LLM
+Find an LLM model.
+Format a Prompt.
+For KB, we need the PV solar cell provider information (web scraping/ or something like that)
+Find tools for the agentic system (optimisation matlab tools)
+Find other agentic nodes for for the Agentic AI system
